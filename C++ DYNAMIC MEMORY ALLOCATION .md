@@ -11,7 +11,7 @@ To write a CPP Program to allocate memory dynamically for a double variable. (No
 4.	End the program.
 
 ## PROGRAM :
-
+```
 #include <iostream> using namespace std; class var_space
 {
 public:
@@ -27,7 +27,7 @@ int main()
 {
 var_space v; v.allocateSpace(); return 0;
 }
- 
+ ```
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/52e604b3-ee4a-450a-a31d-06e1d842e2a2)
 
